@@ -1,0 +1,11 @@
+service,trip_group,share_with_cbd_fee
+Uber/Lyft,Elsewhere,0.020774293499620934
+Uber/Lyft,Into zone,0.984135644362969
+Uber/Lyft,"Manhattan, outside zone",0.0605422539336242
+Uber/Lyft,Out of zone,0.9890678533893241
+Uber/Lyft,Within zone,0.9950697629889617
+Yellow taxi,Elsewhere,0.08399937848864447
+Yellow taxi,Into zone,0.9630709561091202
+Yellow taxi,"Manhattan, outside zone",0.09710894136535152
+Yellow taxi,Out of zone,0.9850840787097335
+Yellow taxi,Within zone,0.9962447373181945
