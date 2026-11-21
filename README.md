@@ -113,3 +113,7 @@ Raw files are downloaded by `make data` and are not stored in this repository.
   they did a year earlier. Other changes between the two years that hit zone trips differently would bias the result.
 * Speeds are trip averages (distance / time), not road-segment speeds.
 * Driver pay is reported for Uber/Lyft only. Tips are excluded from rider totals.
+
+## License
+
+Code, SQL and documentation are released under the [MIT License](LICENSE). The data is not covered by this license: it belongs to the publishers listed under Data and remains under their terms.
